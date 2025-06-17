@@ -92,7 +92,8 @@ $$$$$$$$$$$$$$$$$$ Going to windows side $$$$$$$$$$$$$$$$$$$$$$$$$
         # then login using username and pasord we created before.......
 
 
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& if windows shows network error whilw connecting to that ip &&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& 
+if windows shows network error whilw connecting to that ip &&
 
         # we have to manually start the samba service in windows 
 
